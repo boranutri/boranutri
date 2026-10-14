@@ -1,0 +1,26 @@
+BORANutri - como instalar (Android, iPhone e computador)
+
+IMPORTANTE: este pacote é um app web instalável (PWA). Não é um APK nem um IPA.
+Para instalar no celular ele precisa estar em um endereço https. O jeito mais fácil e gratuito:
+
+PASSO 1 - Colocar online (uma vez só)
+1. Descompacte este .zip e deixe a pasta "BORANutri" com todos os arquivos.
+2. No computador, abra https://app.netlify.com/drop
+3. Arraste a pasta "BORANutri" para a página. Em segundos você recebe um link https.
+   (GitHub Pages também serve.) Guarde esse link.
+
+PASSO 2 - Instalar
+ANDROID: abra o link no Chrome > menu (3 pontinhos) > "Instalar app" ou "Adicionar à tela inicial".
+IPHONE: abra o link no Safari > botão Compartilhar > "Adicionar à Tela de Início".
+COMPUTADOR: abra o link no Chrome ou Edge > clique no ícone de instalar na barra de endereço (ou menu > "Instalar BORANutri").
+
+SÓ NO COMPUTADOR, SEM INTERNET E SEM HOSPEDAR:
+Dê dois cliques em index.html. Funciona offline (as fontes bonitas precisam de internet; sem ela entra uma fonte padrão). Não vira ícone de app.
+
+SEUS DADOS
+Ficam só no navegador/aparelho onde você usa. Cada aparelho tem os seus. Na tela Início use "Copiar backup" de vez em quando
+e "Restaurar backup" para levar os dados a outro aparelho. Limpar os dados do navegador apaga os registros.
+
+AVISO
+Os coeficientes (FAO/WHO) e a composição dos alimentos foram digitados de memória: confira na TACO e no relatório da FAO.
+O app é apoio pessoal e não substitui nutricionista.
